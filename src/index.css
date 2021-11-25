@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.imgDiv{
+  text-align: center;
+  margin-top: 10px;
+}
+
+span:nth-child(1){
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 50px;
+  color: white;
+  font-size: 29px;
+  
+}
+
+span:nth-child(2) {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 50px;
+  color: white;
+  font-size: 29px;
+}
